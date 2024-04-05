@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertifyCore", "AlertifyCore.csproj", "{EAE0349D-EAE3-4460-9B8E-4A80208982A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE0349D-EAE3-4460-9B8E-4A80208982A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE0349D-EAE3-4460-9B8E-4A80208982A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE0349D-EAE3-4460-9B8E-4A80208982A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE0349D-EAE3-4460-9B8E-4A80208982A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02DD5514-C77E-4FA0-BFA8-75EDA57E40FF}
+	EndGlobalSection
+EndGlobal
